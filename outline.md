@@ -1,0 +1,10 @@
+- sql tables
+-   library
+-     add subject
+-     add bundle name
+- python code
+-   create db
+-   create python scripts
+- scraping library
+-   software will need to be scraped on key pages (maybe manually for packt stuff)
+-   books - try all at once?
