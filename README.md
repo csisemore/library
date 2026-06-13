@@ -26,3 +26,10 @@ author
 publisher
 edition
 subject (math/python/c++/etc)
+
+Update 20260613
+Uplaoded the csv.
+minimum table fields:
+    title
+    publisher
+    isbn (not required at first)
