@@ -18,3 +18,11 @@ TODO 20250913:
 * Add ability to upload csv.
 --
 * Call api to retrieve book data - loop through db data to retieve and update each row.
+
+# 20251106
+# fields
+title
+author 
+publisher
+edition
+subject (math/python/c++/etc)
